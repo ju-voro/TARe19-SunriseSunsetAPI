@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.exe
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.deps.json
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.dll
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\SunriseSunsetAPI.pdb
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.csproj.CopyComplete
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.dll
+C:\Users\julia.voronetskaja\source\repos\SunriseSunsetAPI\SunriseSunsetAPI\obj\Debug\netcoreapp3.1\SunriseSunsetAPI.pdb
